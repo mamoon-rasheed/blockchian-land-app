@@ -1,1 +1,4 @@
 write the testimony here
+
+
+every image in the app will be stored as NFT on the ethereum chain
