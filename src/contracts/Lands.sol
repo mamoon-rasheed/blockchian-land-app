@@ -22,7 +22,7 @@ contract Lands {
         string ntnNumber;
         string cnicNumber;
         string document;
-        string email;
+        string emailAddress;
     }
 
     struct Seller {
